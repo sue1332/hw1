@@ -1,0 +1,18 @@
+.part1 {
+    background-color: rgb(174, 202, 202);
+    padding: 1%;
+    width: 660px;
+    height: 470px;
+    margin: 3px auto 0px auto;
+    border-radius: 5px;
+    object-fit: fill;
+    image-rendering: auto;
+    color: rgb(255, 255, 255);
+
+    border: 2px solid;
+    border-color: rgb(92, 92, 92);
+    box-shadow: 3px 7px 3px rgb(97, 118, 121);
+}
+.carousel-indicators {
+    margin: -20px auto;
+}

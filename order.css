@@ -1,0 +1,68 @@
+.order {
+    margin: 0px 10px 15px 20px;
+    white-space: pre-line;
+    font-size: 22px;
+
+}
+
+.order-name {
+    padding: 10px 0px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: start;
+}
+
+#input-name {
+    margin-left: 4%;
+}
+
+.order-option {
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: start;
+}
+
+#input-option {
+    margin-left: 6%;
+}
+
+/* .btn btn-secondary dropdown-toggle{
+    padding: 5px 67px 5px 67px;
+} */
+
+.order-amount {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: start;
+}
+
+#input-amount {
+    margin-left: 6%;
+}
+
+.order-address {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: start;
+}
+
+#input-address {
+    margin-left: 11.5%;
+}
+
+.order-hp {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: start;
+}
+
+#input-hp {
+    margin-left: 6%;
+}
+
